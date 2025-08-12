@@ -27,8 +27,10 @@
 - Launches early-hack-template.js on each server with 374491 threads.
 
 6. early-hack-template.js (2,80GB ram)- gets you xp and money in early game.
-- harakiri-sushi (security 40, max$ 100M) is best for money in early game, n00dles is for first launch ever, foodnstuff very early game.
-- phantasy (security 100, max$ 600M) is best for money mid game. 
+- harakiri-sushi (Hack lvl 40, max$ 100M) is best for money in early game. Default target for early-hack-template.js
+- n00dles is for first launch only, you can skip it. (Hack lvl 1, max$ 2,5M)
+- foodnstuff is best for XP. (Hack lvl 1, max$ 25M)
+- phantasy (Hack lvl 100, max$ 600M) is best for money mid game. 
 
 - Security of server means minimum hacking skill needed to hack it.
 - Optimal - faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
@@ -37,7 +39,7 @@
 - Bitrunners: type: search.js run4theh111z  Then use scnan-analyze 10 to conenct to 10th level server. inside 10th level server type CONNECT run4theh111z
 - NItesec: avmnite-02h
 - Black Hand: I.I.I.I
-- Csec: CSEC
+- Csec: CSEC (case sensitive)
 - after connecting to hack group server, just type BACKDOOR and press Enter. you will get hacking group invite.
 
 --------------------------------------------------------------
@@ -94,8 +96,8 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 
 
 - SCRIPTS.
-1. run early hack template.js
-2. if you have 5GB RAM on home PC, then run go.js
+1. run early-hack-template.js -t 2 (with as many threads your home RAM allows. -t = home RAM GB /2,8GB size of script. Example: 32gb server can run -t 11)
+2. run go.js (automaticaly uses all available RAM). Needs min 4,6 GB RAM on home PC.
 
 
 --------------------------------------------------------------
