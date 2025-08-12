@@ -35,14 +35,14 @@
 - Security of server means minimum hacking skill needed to hack it.
 - Faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
 
-7. search.js - find Run for the hillz server (11th level deep. [scan-analyze 10] maxes at 10 levels deep)
+7. search.js - find Run for the hillz server (11th layer deep. [scan-analyze 10] maxes at 10 layers deep)
 - Bitrunners: type [search.js run4theh111z] without brackets in terminal.  Then use [scnan-analyze 10] to conenct to 10th level server. inside 10th level server type [CONNECT run4theh111z]
 - Nitesec: avmnite-02h
 - Black Hand: I.I.I.I
 - Csec: CSEC (case sensitive)
 - after connecting to hack group server, just type BACKDOOR and press Enter. it will install backdoor, you will get hacking group invite.
-- The-Cave (after installing red pill from Daedalus and 925 hack level)
-- w0r1d_d43m0n (after installing backdoor in The-Cave, 3000 hack level)
+- The-Cave (after installing red pill from Daedalus and 925 hack level) 15 layers deep.
+- w0r1d_d43m0n (after installing backdoor in The-Cave, 3000 hack level) 16 layers deep.
 
 
 --------------------------------------------------------------
