@@ -191,6 +191,7 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 3.604E+11	 14 417 920 000.00 	262144	93622
 7.209E+11	 28 835 840 000.00 	524288	187245
 1.442E+12	 57 671 680 000.00 	1048576	374491
+
 <img width="611" height="421" alt="image" src="https://github.com/user-attachments/assets/f312c4a2-9424-4905-aa74-c06ea5192f77" />
 
 
