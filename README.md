@@ -40,6 +40,7 @@
 - Nitesec: avmnite-02h
 - Black Hand: I.I.I.I
 - Csec: CSEC (case sensitive)
+- The-Cave (after installing red pill from Daedalus and 3000 hack level)
 - after connecting to hack group server, just type BACKDOOR and press Enter. you will get hacking group invite.
 
 --------------------------------------------------------------
