@@ -179,10 +179,10 @@ const o=1e10;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=
 const o=1e99;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=a.ai.getCasinoWinnings()>o;return e&&(0,r.y)("Alright cheater get out of here. You're not allowed here anymore." <- hack
 
 
-10. income multiplier when game is closed
+10. income multiplier when game is closed. .75 to 1e10
 
-OfflineHackingIncome:.75
-OfflineHackingIncome:1e10
+- OfflineHackingIncome:.75
+- OfflineHackingIncome:1e10
 
 11. Corporation you work at rep to get Invite to corp faction, Travel cost, favors before donations unlock, donated money divided by divisor = rep gained, augmentation price multiplier, router cost, healing cost.
 
