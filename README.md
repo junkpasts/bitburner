@@ -165,14 +165,36 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 5. search for values like: repCost:37500,moneyCost:125e6 and edit the values to  make rep and $ lower.
 6. e6 means scientific exponet format of numbers, where 125 is base value multiplied by 1 with 6 zeroes (1 000 000). 125e6 = 125 000 000. 125e2 = 125 00. 12e1 = 120.
 7. Use search words such as REPCOST and MONEYCOST, faction names, augment names. You can edit by how much augments increase your stats and other aspects of the game.
-8. state.dealerHand,n=this.getTrueHandValue(t);for(;n<=16;)t=t.addCards <- original
- state.dealerHand,n=this.getTrueHandValue(t);for(;n<=21;)t=t.addCards <- cheat
 
- Dealer draws cards until hand is 21 , even when is 21. makes dealer always lose. Go to Volhaven -> Casino -> Blackjack 100M bet. Just hit Start, then hit Stay.
+8. Dealer draws cards until hand is 21 , even when is 21. makes dealer always lose. Go to Volhaven -> Casino -> Blackjack 100M bet. Just hit Start, then hit Stay.
+ 
+ state.dealerHand,n=this.getTrueHandValue(t);for(;n<=16;)t=t.addCards <-original
+ state.dealerHand,n=this.getTrueHandValue(t);for(;n<=21;)t=t.addCards <- hack
 
-10. const o=1e10;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=a.ai.getCasinoWinnings()>o;return e&&(0,r.y)("Alright cheater get out of here. You're not allowed here anymore."
+9. casino winning limit from 10B to 1 with 999 zeros. o=1e10 to 0=1e999
 
-casino 10B winning limit before kicked out. change o=1e10 to 0=1e999
+const o=1e10;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=a.ai.getCasinoWinnings()>o;return e&&(0,r.y)("Alright cheater get out of here. You're not allowed here anymore." <-original
+
+
+const o=1e99;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=a.ai.getCasinoWinnings()>o;return e&&(0,r.y)("Alright cheater get out of here. You're not allowed here anymore." <- hack
+
+
+10. income multiplier when game is closed
+
+OfflineHackingIncome:.75
+OfflineHackingIncome:1e10
+
+11. Corporation you work at rep to get Invite to corp faction, Travel cost, favors before donations unlock, donated money divided by divisor = rep gained, augmentation price multiplier, router cost, healing cost.
+
+CorpFactionRepRequirement:4e5,TravelCost:2e5,BaseFavorToDonate:150,DonateMoneyToRepDivisor:1e6,MultipleAugMultiplier:1.9,TorRouterCost:2e5,HospitalCostPerHp:1e5
+
+CorpFactionRepRequirement:100,TravelCost:100,BaseFavorToDonate:0,DonateMoneyToRepDivisor:.01,MultipleAugMultiplier:.99,TorRouterCost:100,HospitalCostPerHp:100
+
+
+12. Stock Market account price, TIX API price, 4s price, Market Data TIX price, transaction commision price.
+
+WSEAccountCost:2e8,TIXAPICost:5e9,MarketData4SCost:1e9,MarketDataTixApi4SCost:25e9,StockMarketCommission:1e5}}
+WSEAccountCost:100,TIXAPICost:100,MarketData4SCost:100,MarketDataTixApi4SCost:1000,StockMarketCommission:100}}
 
 
 
