@@ -131,3 +131,12 @@ I leave  SLEEP at 8000 (8 seconds), becasue those info popups are annoying and o
 
 --------------------------------------------------------------
 
+CHEATING - If you find game too hard or too long, you can cheat by editing main game values such as Price and reputation requirements for augmentations.
+
+1. Find on google and isntall program for code editing called Notepad++.
+2. Navigate to C:\SteamLibrary\steamapps\common\Bitburner\resources\app\dist or wherever your installed game files are.
+3. In folder Bitburner\resources\app\dist find main.bundle.js
+4. Cpoy and paste main.bundle.js to make a backup file in case you screw up during editing values and break the game. After that open main.bundle.js in Notepad++.
+5. search for values like: repCost:37500,moneyCost:125e6 and edit the values to  make rep and $ lower.
+6. e6 means scientific exponet format of numbers, where 125 is base value multiplied by 1 with 6 zeroes (1 000 000). 125e6 = 125 000 000. 125e2 = 125 00. 12e1 = 120.
+7. Use search words such as REPCOST and MONEYCOST, faction names, augment names. You can edit by how much augments increase your stats and other aspects of the game.
