@@ -200,7 +200,7 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 --------------------------------------------------------------
 
 
-|open ports (how many .exe programs must own on home PC -max=5)|	security level |	maxmoney mil	|target	millions/s (long run)|
+|open ports (how many .exe  port opening programs must own on home PC -n max=5)|	security level |	maxmoney mil	|target	millions/s (long run)|
 2	100	600	phantasy	0.833
 3	333	5597	computek	0.777
 1	100	500	iron-gym	0.556
