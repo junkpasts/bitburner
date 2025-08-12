@@ -1,26 +1,37 @@
-  Bitburner v2.8 year 2025. TUTORIAL for NOOBS who don't know how to code and just want to complete the game.
+  Bitburner v2.8.1 AUG 2025.
+  TUTORIAL from NOOB for NOOBS who don't know how to code and just want to complete the main quest on First play-through (Bitnode 1).
+  
+  Contains spoilers, but you would't care if you are stuck anyway.
 --------------------------------------------------------------
 
   
   LIST OF SCRIPTS: theese are scripts I found on github/ reddit/ google search and modified them a bit for my liking.
 
-stocktrader5.js  - makes money mid to late game by strading stocks automaticaly. Best for money.
+1. stocktrader5.js  - makes money mid to late game by strading stocks automaticaly. Best for money.
 
-go.js (+3 bin.js files that just need to be on home PC and is launched automaticaly by go.js)
-- makes hack xp and money by hacking target server with all available RAM. Best for hack Xp (foodnstuff).
+2. go.js (4,55GB RAM) (+3 bin.js files that just need to be on home PC and is launched automaticaly by go.js) - makes hack xp and money by hacking target server with all available RAM. Best for hack Xp (foodnstuff).
+- bin.gr.js - grow function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
+- bin.hk.js - hack function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
+- bin.wk.js - weaken function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
 
+3. server-delete.js - deletes all bought personal servers (does not delete home PC or servers of companies on web)
 
-server-delete.js - deletes all bought personal servers (does not delete home PC or servers of companies on web)
+4. servbuy1b.js - buys 512GB private servers for 28M. 25x cost 710M total. (if you run out of money it stops buying)
+Copies from home to bought servers 3x bin.js files and early-hack-template.js.
+Launches early-hack-template.js on each server with 182 threads.
 
-servbuy1b.js
-server buy scritps - buys servers (helps go.js to get more hacking XP and level up hacking skill)
+5. servbuy2t.js - buys 1048576GB private servers (MAX SIZE) for 58B. 25x cost 1,5T total. (if you run out of money it stops buying)
+Copies from home to bought servers 3x bin.js files and early-hack-template.js.
+Launches early-hack-template.js on each server with 374491 threads.
 
-
-early-hack-template.js (2,80GB ram)- gets you xp and money in early game.
+6. early-hack-template.js (2,80GB ram)- gets you xp and money in early game.
 harakiri-sushi (security 40, max$ 100M) is best for money in early game, n00dles is for first launch ever, foodnstuff very early game.
 phantasy (security 100, max$ 600M) is best for money mid game. 
 
-search.js - find Run for the hillz server (11th level deep. scan-analyze maxes at 10 levels deep)
+Security of server means minimum hacking skill needed to hack it.
+Optimal - faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
+
+7. search.js - find Run for the hillz server (11th level deep. scan-analyze maxes at 10 levels deep)
   Bitrunners: type: search.js run4theh111z  Then use scnan-analyze 10 to conenct to 10th level server. inside 10th level server type CONNECT run4theh111z
   NItesec: avmnite-02h
   Black Hand: I.I.I.I
@@ -38,7 +49,7 @@ search.js - find Run for the hillz server (11th level deep. scan-analyze maxes a
 5. sell stock, upgrade HOME PC RAM and CORES
 6. sell stock, buy augments
 7. install augments
-8. until you have 2500 hack skill and you can join Daedalus. (need 3000 hack level to complete main story level - bitnode)
+8. until you have 2500 hack skill, then run fl1ght.exe to join Daedalus. (need 3000 hack level to complete main story level - bitnode1)
    
 
 --------------------------------------------------------------
