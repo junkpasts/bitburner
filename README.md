@@ -9,7 +9,7 @@
   LIST OF SCRIPTS: theese are scripts I found on github/ reddit/ google search and modified them a bit for my liking.
 --------------------------------------------------------------
 
-1. stocktrader5.js  - makes money mid to late game by strading stocks automaticaly. Best for money.
+1. stocktrader5.js  - makes money mid to late game by trading stocks automaticaly. Best for money.
 
 2. go.js (4,55GB RAM) - makes hack xp and money by hacking foodnstuff with all available RAM. Best for hack Xp.
 - bin.gr.js - grow function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
