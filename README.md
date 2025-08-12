@@ -193,3 +193,36 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 1.442E+12	 57 671 680 000.00 	1048576	374491
 <img width="611" height="421" alt="image" src="https://github.com/user-attachments/assets/f312c4a2-9424-4905-aa74-c06ea5192f77" />
 
+
+--------------------------------------------------------------
+
+  Best targets for money EARLY to MID game
+--------------------------------------------------------------
+
+
+|open ports (how many .exe programs must own on home PC -max=5)|	security level |	maxmoney mil	|target	millions/s (long run)|
+2	100	600	phantasy	0.833
+3	333	5597	computek	0.777
+1	100	500	iron-gym	0.556
+2	150	1125	silver-helix	0.469
+0	40	100	harakiri-sushi	0.417
+0	10	62	joesguns	0.416
+0	20	68	nectar-net	0.381
+0	5	57	sigma-cosmetics	0.345
+1	80	250	max-hardware	0.321
+1	75	187	zer0	0.313
+1	50	125	neo-net	0.208
+0	30	75	hong-fang-tea	0.179
+0	1	25	foodnstuff	0.139
+0	1	2.5	n00dles	0.032
+2	230	1434	crush-fitness	0.000
+2	188	1607	omega-net	0.000
+2	301	4201	the-hub	0.000
+3	380	6875	netlink	0.000
+3	405	6167	rothman-uni	0.000
+2	203	0	avmnite-02h	
+1	54	0	CSEC	
+3	359	0	I.I.I.I	
+4	530	0	run4theh111z 	
+<img width="590" height="573" alt="image" src="https://github.com/user-attachments/assets/de9cf95a-f5ce-4dfa-bf51-903415b24c3f" />
+
