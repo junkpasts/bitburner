@@ -35,8 +35,8 @@
 - Security of server means minimum hacking skill needed to hack it.
 - Faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
 
-7. search.js - find Run for the hillz server (11th level deep. scan-analyze 10 maxes at 10 levels deep)
-- Bitrunners: type: search.js run4theh111z  Then use scnan-analyze 10 to conenct to 10th level server. inside 10th level server type CONNECT run4theh111z
+7. search.js - find Run for the hillz server (11th level deep. [scan-analyze 10] maxes at 10 levels deep)
+- Bitrunners: type [search.js run4theh111z] without brackets in terminal.  Then use [scnan-analyze 10] to conenct to 10th level server. inside 10th level server type [CONNECT run4theh111z]
 - Nitesec: avmnite-02h
 - Black Hand: I.I.I.I
 - Csec: CSEC (case sensitive)
@@ -46,14 +46,14 @@
 
 
   END GAME STRATEGY: 
-1. run stocktrader5.js
-2. run go.js
+1. [run stocktrader5.js]
+2. [run go.js]
 3. run server buy script. (stop go.js before buying)
 4. wait AFK until several trillion $ (keep around 3 trillion for stock market to make money)
 5. sell stock, upgrade HOME PC RAM and CORES
 6. sell stock, buy augments
 7. install augments (reset/prestige)
-8. until you have 2500 hack skill, then run fl1ght.exe to join Daedalus. (need 3000 hack level to complete main story level - bitnode1)
+8. until you have 2500 hack skill, then [run fl1ght.exe] to join Daedalus. (need 3000 hack level to complete main story level - bitnode1)
    
 
 --------------------------------------------------------------
@@ -96,8 +96,8 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 
 
 - SCRIPTS.
-1. run early-hack-template.js -t 2 (with as many threads your home RAM allows. -t = home RAM GB /2,8GB size of script. Example: 32gb server can run -t 11)
-2. run go.js (automaticaly uses all available RAM). Needs min 4,6 GB RAM on home PC.
+1. [run early-hack-template.js -t 2] (with as many threads your home RAM allows. -t = home RAM GB /2,8GB size of script. Example: 32gb server can run -t 11)
+2. [run go.js] (automaticaly uses all available RAM). Needs min 4,6 GB RAM on home PC.
 
 
 --------------------------------------------------------------
@@ -118,17 +118,17 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 - DARKWEB - buy .exe programs instead of wasting time making them yourself.
 
 1. go to company that sells servers and buy ROUTER to access dark web.
-2. connect darkweb - connects to darkweb
-3. buy -l - lists programs that you can buy
-4. buy -a - buys all programs you can afford
+2. [connect darkweb] - connects to darkweb
+3. [buy -l] - lists programs that you can buy
+4. [buy -a] - buys all programs you can afford
 
 
 - SERVERS
 1. Travel to Volfhaven to buy 25 servers of 256GB for 14M $ each (352M total).
-2. run delete-server.js to delete all bought servers
-3. run servbuy1b.js to buy 512 GB servers. (710M needed)
-4. run delete-server.js to delete all bought servers
-5. run servbuy2t.js to max out servers (1,5t needed)
+2. [run delete-server.js] to delete all bought servers
+3. [run servbuy1b.js] to buy 512 GB servers. (710M needed)
+4. [run delete-server.js] to delete all bought servers
+5. [run servbuy2t.js] to max out servers (1,5t needed)
 
 
 
@@ -141,7 +141,7 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
   
 1. Go to stock exchange and buy all upgrades (up to 25B). You dont have to buy again after resetting (installing augmentations).
 
-2. run stocktrader5.js - it makes money with LONG position.
+2. [run stocktrader5.js] - it makes money with LONG position.
 
 3. SHORT position is unlocked after completing twice the main story in Bitnode 8 (you start game in Bitnode 1).
 4. you can edit stocktrader5.js and change minimum safety treshold from 1B to 1 million to start making money before you reach 1 billion.
