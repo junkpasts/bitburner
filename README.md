@@ -11,7 +11,7 @@
 
 1. stocktrader5.js  - makes money mid to late game by strading stocks automaticaly. Best for money.
 
-2. go.js (4,55GB RAM) (+3 bin.js files that just need to be on home PC and is launched automaticaly by go.js) - makes hack xp and money by hacking target server with all available RAM. Best for hack Xp (foodnstuff).
+2. go.js (4,55GB RAM) - makes hack xp and money by hacking foodnstuff with all available RAM. Best for hack Xp.
 - bin.gr.js - grow function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
 - bin.hk.js - hack function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
 - bin.wk.js - weaken function launched automaticaly by go.js. uses private server with highest RAM (all of private servers if they are same RAM size).
@@ -26,18 +26,18 @@
 - Copies from home to bought servers 3x bin.js files and early-hack-template.js.
 - Launches early-hack-template.js on each server with 374491 threads.
 
-6. early-hack-template.js (2,80GB ram)- gets you xp and money in early game.
-- harakiri-sushi (Hack lvl 40, max$ 100M) is best for money in early game. Default target for early-hack-template.js
+6. early-hack-template.js (2,80GB ram)- gets you xp and money in early game by hacking harakiri-sushi.
+- harakiri-sushi (Hack lvl 40, max$ 100M) is best for money in early game.
 - n00dles is for first launch only, you can skip it. (Hack lvl 1, max$ 2,5M)
 - foodnstuff is best for XP. (Hack lvl 1, max$ 25M)
-- phantasy (Hack lvl 100, max$ 600M) is best for money mid game. 
+- phantasy (Hack lvl 100, max$ 600M) is best for money mid game. After 10B+ stocktrader5.js takes over money making.
 
 - Security of server means minimum hacking skill needed to hack it.
-- Optimal - faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
+- Faster hacking is when your hack skill is 2x security level. For example 200 hack skill for phantasy and 80 for harakiri-sushi.
 
-7. search.js - find Run for the hillz server (11th level deep. scan-analyze maxes at 10 levels deep)
+7. search.js - find Run for the hillz server (11th level deep. scan-analyze 10 maxes at 10 levels deep)
 - Bitrunners: type: search.js run4theh111z  Then use scnan-analyze 10 to conenct to 10th level server. inside 10th level server type CONNECT run4theh111z
-- NItesec: avmnite-02h
+- Nitesec: avmnite-02h
 - Black Hand: I.I.I.I
 - Csec: CSEC (case sensitive)
 - after connecting to hack group server, just type BACKDOOR and press Enter. you will get hacking group invite.
@@ -48,11 +48,11 @@
   END GAME STRATEGY: 
 1. run stocktrader5.js
 2. run go.js
-3. run server buy script. (stop go.js before buying))
+3. run server buy script. (stop go.js before buying)
 4. wait AFK until several trillion $ (keep around 3 trillion for stock market to make money)
 5. sell stock, upgrade HOME PC RAM and CORES
 6. sell stock, buy augments
-7. install augments
+7. install augments (reset/prestige)
 8. until you have 2500 hack skill, then run fl1ght.exe to join Daedalus. (need 3000 hack level to complete main story level - bitnode1)
    
 
@@ -103,14 +103,14 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 --------------------------------------------------------------
 
 
-  STEP03 - MAKE HACK XP and hack level MID GAME
+  STEP03 - make hack XP MID and LATE game
 --------------------------------------------------------------
 
 - SCRIPTS
 1. run go.js - it uses all free ram on HOME and bought servers. 
 
 2. to launch other scripts (stop go.js):click Active Scripts -> HOME -> go.js . 
-3. clcik LOG then red squar button to stop go.js  or....
+3. clcik LOG then red square button to stop go.js  or....
 4. click red trashcan (to run again go.js youll need to use terminal or script editor so its easier to use option A)
 5. also kill /stop lingering bin.js files on home , becasue they use up all the ram.
 
