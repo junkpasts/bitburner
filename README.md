@@ -223,6 +223,7 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 2	203	0	avmnite-02h	
 1	54	0	CSEC	
 3	359	0	I.I.I.I	
-4	530	0	run4theh111z 	
+4	530	0	run4theh111z
+
 <img width="590" height="573" alt="image" src="https://github.com/user-attachments/assets/de9cf95a-f5ce-4dfa-bf51-903415b24c3f" />
 
