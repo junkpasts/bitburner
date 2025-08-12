@@ -141,12 +141,12 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
   
 1. Go to stock exchange and buy all upgrades (up to 25B). You dont have to buy again after resetting (installing augmentations).
 
-2. [run stocktrader5.js] - it makes money with LONG position.
+2. [run stocktrader5.js] - it makes money by trading stocks every 8 seconds with LONG/SHORT position. Keeps 100M $ as minimum reserve (const moneyKeep)
 
 3. SHORT position is unlocked after completing twice the main story in Bitnode 8 (you start game in Bitnode 1).
 4. you can edit stocktrader5.js and change minimum safety treshold from 1B to 1 million to start making money before you reach 1 billion.
-5. Also, edit SLEEP time from 2000 ms to 30000 or 60000 so that it makes buy/sell transaction only once in 30 or 60 secods, becasue each transaction cost 100K.
-6. I leave  SLEEP at 8000 (8 seconds), becasue those info popups are annoying and on top of text I try to read.
+5. Also, early game edit scriptTimer = 2000 from 2000 ms to 30000 so that it makes buy/sell transaction only once in 30, becasue each transaction cost 100K. Stock prices change every 6 secodns.
+6. I leave scriptTimer at 8000 (8 seconds), becasue those info popups are annoying and on top of text I try to read.
 
 
 
