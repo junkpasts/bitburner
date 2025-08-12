@@ -165,6 +165,13 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 5. search for values like: repCost:37500,moneyCost:125e6 and edit the values to  make rep and $ lower.
 6. e6 means scientific exponet format of numbers, where 125 is base value multiplied by 1 with 6 zeroes (1 000 000). 125e6 = 125 000 000. 125e2 = 125 00. 12e1 = 120.
 7. Use search words such as REPCOST and MONEYCOST, faction names, augment names. You can edit by how much augments increase your stats and other aspects of the game.
+8. state.dealerHand,n=this.getTrueHandValue(t);for(;n<=16;)t=t.addCards
+ state.dealerHand,n=this.getTrueHandValue(t);for(;n<=21;)t=t.addCards
+ Dealer draws cards until hand is 21 , even when is 21. makes dealer always lose. Go to Volhaven -> Casino -> Blackjack. Just hit Start and Stay with 100M bet.
+
+9. const o=1e10;function i(e){s()||a.ai.gainMoney(e,"casino")}function s(){const e=a.ai.getCasinoWinnings()>o;return e&&(0,r.y)("Alright cheater get out of here. You're not allowed here anymore."
+
+casino 10B winning limit before kicked out. change o=1e10 to 0=1e999
 
 
 
