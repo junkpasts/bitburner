@@ -1,5 +1,5 @@
   Bitburner v2.8 year 2025. TUTORIAL for NOOBS who don't know how to code and just want to complete the game.
-
+--------------------------------------------------------------
 
   
   LIST OF SCRIPTS: theese are scripts I found on github/ reddit/ google search and modified them a bit for my liking.
@@ -27,7 +27,7 @@ search.js - find Run for the hillz server (11th level deep. scan-analyze maxes a
   Csec: CSEC
   after connecting to hack group server, just type BACKDOOR and press Enter. you will get hacking group invite.
 
-
+--------------------------------------------------------------
 
 
   END GAME STRATEGY: 
@@ -41,7 +41,7 @@ search.js - find Run for the hillz server (11th level deep. scan-analyze maxes a
 8. until you have 2500 hack skill and you can join Daedalus. (need 3000 hack level to complete main story level - bitnode)
    
 
-
+--------------------------------------------------------------
 
 
   STEP01 - Copy files from github to bitburner HOME pc.
@@ -52,7 +52,7 @@ You can check what files you have on home PC by typing in terminal LS. type HELP
 or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/basicgameplay/terminal.html
 
 
-
+--------------------------------------------------------------
 
 
   STEP02 - make money EARLY GAME
@@ -82,7 +82,7 @@ run early hack template.js
 if you have 5GB RAM on home PC, then run go.js
 
 
-
+--------------------------------------------------------------
 
 
   STEP03 - MAKE HACK XP and hack level MID GAME
@@ -112,7 +112,7 @@ SERVERS
 
 
 
-
+--------------------------------------------------------------
 
 
 
@@ -129,5 +129,5 @@ I leave  SLEEP at 8000 (8 seconds), becasue those info popups are annoying and o
 
 
 
-
+--------------------------------------------------------------
 
