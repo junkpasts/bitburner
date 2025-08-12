@@ -162,3 +162,34 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 5. search for values like: repCost:37500,moneyCost:125e6 and edit the values to  make rep and $ lower.
 6. e6 means scientific exponet format of numbers, where 125 is base value multiplied by 1 with 6 zeroes (1 000 000). 125e6 = 125 000 000. 125e2 = 125 00. 12e1 = 120.
 7. Use search words such as REPCOST and MONEYCOST, faction names, augment names. You can edit by how much augments increase your stats and other aspects of the game.
+
+
+
+--------------------------------------------------------------
+
+  Server prices for servbuy1b.js
+--------------------------------------------------------------
+
+|25 server price (e06  = 1 million)	| server price $	| server ram GB	| early hack template tread rounddown |
+2.750E+06	 110 000.00 	2	0
+5.500E+06	 220 000.00 	4	1
+1.100E+07	 440 000.00 	8	2
+2.200E+07	 880 000.00 	16	5
+4.400E+07	 1 760 000.00 	32	11
+8.800E+07	 3 520 000.00 	64	22
+1.760E+08	 7 040 000.00 	128	45
+3.520E+08	 14 080 000.00 	256	91
+7.040E+08	 28 160 000.00 	512	182
+1.408E+09	 56 320 000.00 	1024	365
+2.816E+09	 112 640 000.00 	2048	731
+5.632E+09	 225 280 000.00 	4096	1462
+1.126E+10	 450 560 000.00 	8192	2925
+2.253E+10	 901 120 000.00 	16384	5851
+4.506E+10	 1 802 240 000.00 	32768	11702
+9.011E+10	 3 604 480 000.00 	65536	23405
+1.802E+11	 7 208 960 000.00 	131072	46811
+3.604E+11	 14 417 920 000.00 	262144	93622
+7.209E+11	 28 835 840 000.00 	524288	187245
+1.442E+12	 57 671 680 000.00 	1048576	374491
+<img width="611" height="421" alt="image" src="https://github.com/user-attachments/assets/f312c4a2-9424-4905-aa74-c06ea5192f77" />
+
