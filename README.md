@@ -166,7 +166,7 @@ or help articles here: https://bitburner-fork-oddiz.readthedocs.io/en/latest/bas
 6. e6 means scientific exponet format of numbers, where 125 is base value multiplied by 1 with 6 zeroes (1 000 000). 125e6 = 125 000 000. 125e2 = 125 00. 12e1 = 120.
 7. Use search words such as REPCOST and MONEYCOST, faction names, augment names. You can edit by how much augments increase your stats and other aspects of the game.
 
-8. Dealer draws cards until hand is 21 , even when is 21. makes dealer always lose. Go to Volhaven -> Casino -> Blackjack 100M bet. Just hit Start, then hit Stay.
+8. Dealer draws cards until hand is 21 , even when is 21. makes dealer always lose. Go to Aevum -> Casino -> Blackjack 100M bet. Just hit Start, then hit Stay.
  
  state.dealerHand,n=this.getTrueHandValue(t);for(;n<=16;)t=t.addCards <-original
  state.dealerHand,n=this.getTrueHandValue(t);for(;n<=21;)t=t.addCards <- hack
