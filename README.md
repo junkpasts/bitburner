@@ -234,7 +234,7 @@ WSEAccountCost:100,TIXAPICost:100,MarketData4SCost:100,MarketDataTixApi4SCost:10
 --------------------------------------------------------------
 
 
-|open ports (how many .exe  port opening programs must own on home PC -n max=5)|	security level |	maxmoney mil	|target	millions/s (long run)|
+|open ports (how many .exe  port opening programs must own on home PC -n max=5)|	security level |	maxmoney mil	| target |	millions/s (long run)|
 2	100	600	phantasy	0.833
 3	333	5597	computek	0.777
 1	100	500	iron-gym	0.556
